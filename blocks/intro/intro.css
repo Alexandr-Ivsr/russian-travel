@@ -1,21 +1,21 @@
-.lead {
-  padding: 0 0 64px;
+.intro {
+  padding: 0 16px 64px;
 }
 
 @media (min-width: 768px) {
-  .lead {
-    padding: 0 0 88px;
+  .intro {
+    padding: 0 24px 88px;
   }
 }
 
 @media (min-width: 1024px) {
-  .lead {
+  .intro {
     padding: 0 48px 92px;
   }
 }
 
 @media (min-width: 1280px) {
-  .lead {
+  .intro {
     max-width: 984px;
     margin: 0 auto;
     padding: 0 0 92px;
