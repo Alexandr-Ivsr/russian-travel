@@ -52,6 +52,8 @@
 
 @media (min-width: 1280px) {
   .cover__link {
+    max-width: 1184px;
     min-height: 740px;
+    margin: 0 auto;
   }
 }
