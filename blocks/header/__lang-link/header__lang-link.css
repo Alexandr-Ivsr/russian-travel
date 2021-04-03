@@ -3,6 +3,11 @@
   font-size: 18px;
   color: inherit;
   text-decoration: none;
+  transition: .2s opacity ease-in-out;
+}
+
+.header__lang-link:hover {
+  opacity: 0.8;
 }
 
 .header__lang-link:last-child {
